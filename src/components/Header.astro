@@ -1,16 +1,17 @@
 ---
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <header>
 	<nav>
 		<h2>
-			<a href="/">{SITE_TITLE}</a>
+			<a href={`${base}/`}>{SITE_TITLE}</a>
 		</h2>
 		<div class="internal-links">
-			<HeaderLink href="/">Sessions</HeaderLink>
-			<HeaderLink href="/tags">Tags</HeaderLink>
+			<HeaderLink href={`${base}/`}>Sessions</HeaderLink>
+			<HeaderLink href={`${base}/tags`}>Tags</HeaderLink>
 		</div>
 		<div class="social-links">
 			<a href="https://github.com/PaulineNemchak/av" target="_blank">

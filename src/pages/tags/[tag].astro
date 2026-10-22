@@ -27,6 +27,8 @@ export async function getStaticPaths() {
 
 const { tag } = Astro.params;
 const { posts } = Astro.props;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 <style>
   ul {
@@ -39,7 +41,7 @@ const { posts } = Astro.props;
     {
       posts.map((post) => (
         <li>
-          <a href={`/${post.slug}`}>{post.frontmatter.title}</a>
+          <a href={`${base}/${post.slug}`}>{post.frontmatter.title}</a>
         </li>
       ))
     }
