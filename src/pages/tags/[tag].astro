@@ -1,13 +1,15 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BaseLayout from "../../layouts/BaseLayout.astro";
 
 export async function getStaticPaths() {
-  const modules = import.meta.glob('../../content/blog/*.md', { eager: true });
+  const modules = import.meta.glob("../../content/blog/*.md", { eager: true });
 
-  const allPosts = Object.entries(modules).map(([path, post]: [string, any]) => ({
-    slug: path.split('/').pop()!.replace(/\.md$/, ''),
-    frontmatter: post.frontmatter,
-  }));
+  const allPosts = Object.entries(modules).map(
+    ([path, post]: [string, any]) => ({
+      slug: path.split("/").pop()!.replace(/\.md$/, ""),
+      frontmatter: post.frontmatter,
+    }),
+  );
 
   const uniqueTags = [
     ...new Set(allPosts.flatMap((post) => post.frontmatter.tags ?? [])),
@@ -16,7 +18,9 @@ export async function getStaticPaths() {
   return uniqueTags.map((tag) => ({
     params: { tag },
     props: {
-      posts: allPosts.filter((post) => (post.frontmatter.tags ?? []).includes(tag)),
+      posts: allPosts.filter((post) =>
+        (post.frontmatter.tags ?? []).includes(tag),
+      ),
     },
   }));
 }
@@ -24,11 +28,20 @@ export async function getStaticPaths() {
 const { tag } = Astro.params;
 const { posts } = Astro.props;
 ---
+<style>
+  ul {
+    list-style: none;
+  }
+</style>
 <BaseLayout pageTitle={tag}>
   <p>Posts tagged with {tag}</p>
   <ul>
-    {posts.map((post: any) => (
-      <li><a href={`/${post.slug}`}>{post.frontmatter.title}</a></li>
-    ))}
+    {
+      posts.map((post) => (
+        <li>
+          <a href={`/${post.slug}`}>{post.frontmatter.title}</a>
+        </li>
+      ))
+    }
   </ul>
 </BaseLayout>
