@@ -1,8 +1,20 @@
 ---
-title: 'Session 3'
-pubDate: 'May 06 2026'
-tags: ['Olli', 'Blue Finley', 'Nerala', 'Oloria Gallentine', 'Tamily Tanderveil', 'Belcorra Haruvex', 'Otari Ilvashti', 'Roseguard', 'Carman Rajani']
+title: "Session 3"
+pubDate: "May 06 2026"
+tags:
+  [
+    "Olli",
+    "Blue Finley",
+    "Nerala",
+    "Oloria Gallentine",
+    "Tamily Tanderveil",
+    "Belcorra Haruvex",
+    "Otari Ilvashti",
+    "Roseguard",
+    "Carman Rajani",
+  ]
 ---
+
 Quintus took Olli as his familiar. We've met the ghost, Blue Finley, and he was friendly and told us about the death of his grandmother. He gave us a cold iron weapon and asked not to sell it.
 
 A group of giant wasps had made a nest in the cliff alongside the camp, feeding on the resident spiders. They appeared friendly and should deter visitors to the camp, and provided Lilith a vial of some of their venom.
