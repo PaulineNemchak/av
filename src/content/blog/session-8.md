@@ -1,7 +1,7 @@
 ---
 title: "Session 8"
 pubDate: "Aug 19 2026"
-tags: ["Volluk Azrinae", "Otari Ilvashti", "Roseguard", "Mimnivix", "Zozzlarin"]
+tags: ["Otari Ilvashti", "Roseguard", "Mimnivix", "Zozzlarin"]
 ---
 
 Having survived their encounter with Fresnelkesh, the party resumed their exploration of the Gauntlight. Bonk remained to guard the workmen, while Nin led the others back through the passage below Volluk’s workshop. Their first encounter on the new level was a pile of enormous bones beginning to assemble itself into a skeletal giant. Erzsebet recognised it as a mindless undead creature incorporating minotaur bones, and the party prepared themselves for a fight. The skeletal giant proved as formidable as its appearance suggested, sweeping an enormous rusty glaive across the room, nearly killing several members of the party in a single devastating attack. Its resistance to slashing and piercing weapons appeared insurmountable, but the party adapted quickly. The party took its head as a trophy.
