@@ -12,6 +12,7 @@ tags:
     "Tamily Tanderveil",
     "Tangletop",
     "Belcorra Haruvex",
+    "Borbo",
   ]
 ---
 
