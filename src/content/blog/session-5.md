@@ -12,7 +12,7 @@ The party proceeded to investigate the gauntlight in line with Wrin's request. G
 
 The party proceeded to eliminate the untamed Giant Scorpion. Healing up following the combat, they beheld a stone door, which Laurah recognizad as emblazoned with the symbol of the Outer God Nhimbaloth.
 
-> Nhimbaloth is a shapeless entity known as the Empty Death. She preys on those who hunt souls as they travel down the river, but she devours both hunter and soul indiscriminately; those she consumes have no afterlife or potential for resurrection. They are forever gone, and forever nothing.
+> Nhimbaloth is a shapeless entity known as the Empty Death. She preys on those who hunt souls as they travel down the river, but she devours both hunter and soul indiscriminately; those she consumes have no afterlife or potential for resurrection. They are forever gone, and forever nothing. Nhimbaloth is said by many to be the source of all will-o'-wisps. Her cultists claim that her true form is but a presence felt by those threatened by a pointless and futile death.
 
 The party entered the chapel to find a skeleton clawing at a hidden door, slain by two Corpselights that emerged from the transept animating old remains. Searching the first skeleton following the combat revealed that he had clearly been a ruin delver of some sort, carrying adventurer's gear including an enchanted rapier, while the corpselight skeletons had valuable gold teeth and an enchanted amulet.
 
