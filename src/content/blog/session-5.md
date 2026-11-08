@@ -1,7 +1,7 @@
 ---
 title: "Session 5"
 pubDate: "Jun 10 2026"
-tags: ["Belcorra Haruvex"]
+tags: ["Belcorra Haruvex", "Wrin Sivinxi", "Yinyasmera"]
 ---
 
 The party began their investigation of the gauntlight lighthouse. The party immediately encountered a Haunt in the tower base in the form of a column of blood in the shape of a human woman, who Genevive identified as Belcorra. The blood was seeping into the room from below. Calling upon the power of her goddess, Laurah was able to drive the spirit away, and it fled through an iron trapdoor in the ceiling. The trapdoor was sealed with a complex and robust lock, but the party managed to open it.
